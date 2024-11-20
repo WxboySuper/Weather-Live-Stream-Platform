@@ -1,0 +1,7 @@
+- Live Weather Alert System
+    - Live Alerts
+    - Alert Ticker
+    - Alert Dashboard
+- Weather Forecast Input for local areas
+- Addition of weather forecast discussions by operating user (Full Auto)
+- Custom map for weather radar, forecasts, current conditions, and other weather information (Full Auto)
