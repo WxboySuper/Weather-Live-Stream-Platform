@@ -27,7 +27,14 @@
 ### 4.0.0
 
 - Basic Map Display
+  - Integration with Leaflet/Mapbox
+  - Basic weather data overlay
+  - Static map controls
 
 ### 4.1.0
 
 - Interactive Map Display
+  - Dynamic weather data layers
+  - Custom map controls
+  - Real-time data updates
+  - User interaction handling
