@@ -27,12 +27,15 @@
 ### 2.0.0
 
 - Weather Forecast Inputs
-  - See [ideas.md](ideas.md) for more information on this feature
+  - API Integration for local area forecasts
+  - Custom Location Support
 
 ### 3.0.0
 
 - Weather Forecast Input for Local Areas
-  - See [ideas.md](ideas.md) for more information on this feature
+  - Text to Speech
+  - Forecast Input Interface (Web Interface Recommended)
+  - Possible Database Requirement
 
 ### 4.0.0
 
