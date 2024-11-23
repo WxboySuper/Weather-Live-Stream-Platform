@@ -4,9 +4,18 @@
 
 ### Pre-1.0.0
 
-- Live Alerts
-- Alert Ticker
-- Alert Dashboard
+- Live Alert Notifications
+  - Connection to NWS API for alert information
+  - WebSocket integration for real-time updates to OBS
+
+- Alert Ticker  
+  - React component for active alerts display  
+  - Alert count and severity indicators
+
+- Alert Dashboard  
+  - Electron.js and React.js implementation  
+  - Alert management interface  
+  - Configuration settings panel
 
 ### 1.0.0
 
@@ -14,6 +23,7 @@
   - Desktop application packaging
   - Inter-process communication setup
   - System tray integration
+
 ### 2.0.0
 
 - Weather Forecast Inputs
