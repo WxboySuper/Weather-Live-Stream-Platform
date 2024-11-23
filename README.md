@@ -6,7 +6,7 @@ New Open Source Weather Live Streaming tool to (hopefully) revolutionize what is
 
 ## Features
 
-Currently, none. Find out ideas and add our own in the ideas.txt file!
+Currently, none. This is a work in progress.
 
 ## Contributing
 

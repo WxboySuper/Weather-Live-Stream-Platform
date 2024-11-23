@@ -1,7 +1,29 @@
 - Live Weather Alert System
-    - Live Alerts
-    - Alert Ticker
-    - Alert Dashboard
-- Weather Forecast Input for local areas
-- Addition of weather forecast discussions by operating user (Full Auto)
-- Custom map for weather radar, forecasts, current conditions, and other weather information (Full Auto)
+    - Live Alerts (Live Alert Tracking, Send to OBS, Database Needed)
+    - Alert Ticker (Counter, Database Needed)
+    - Alert Dashboard (Web Interface)
+- Weather Forecast Input for local areas (API Needed)
+- Addition of weather forecast discussions by operating user (Full Automation) (Text to Speech, Forecast Input Interface (Web Interface Reccomended), Database Possible)
+- Custom map for weather radar, forecasts, current conditions, and other weather information (Full Auto) (API's Necessary, Map Plotting and Data Analysis Needed)
+
+This is a WORK IN PROGRESS list of ideas for this project. Language and framework are yet to be decided but need to perform the tasks and features listed above.
+
+
+Tech Stack to be used:
+
+Frontend:
+- Electron.js
+- React.js
+- Mapbox/ Leaflet
+- WebSocket
+
+Backend:
+- Node.js
+- PostgreSQL
+- Redis
+- WebSocket
+
+Weather Data Integration:
+- NWS API
+- OpenWeatherMap API
+- Weather Company API
