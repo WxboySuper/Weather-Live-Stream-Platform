@@ -10,8 +10,10 @@
 
 ### 1.0.0
 
-- Full Integration through Electtron.js
-
+- Full Integration through Electron.js
+  - Desktop application packaging
+  - Inter-process communication setup
+  - System tray integration
 ### 2.0.0
 
 - Weather Forecast Inputs
