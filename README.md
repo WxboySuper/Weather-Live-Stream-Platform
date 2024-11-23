@@ -6,7 +6,14 @@ New Open Source Weather Live Streaming tool to (hopefully) revolutionize what is
 
 ## Features
 
-Currently, none. Find out ideas and add our own in the [ideas](ideas.txt) file!
+This project is currently a work in progress. Our planned features are documented in:  
+  
+- [Project Ideas](Planning-Docs/ideas.md)  
+- [Development Timeline](Planning-Docs/Timeline-Minestones.md)
+
+## Installation
+
+Will be updated when installation is available.
 
 ## Contributing
 
